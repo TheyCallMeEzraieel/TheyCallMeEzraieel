@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Greetings, I'm [Mohammad]
+# 👋 Greetings, I'm Mohammad
 
 I started coding at 13 with **C++**, then moved into **Lua** and **MySQL** while working on game servers.  
 Now I build **back-end projects** using **Node.js** and **Python**, and I love learning new technologies fast.
@@ -24,7 +24,8 @@ Now I build **back-end projects** using **Node.js** and **Python**, and I love l
 ---
 
 📫 **Reach Me At:**  
-[callmekamikaze1999@gmail.com]
+callmekamikaze1999@gmail.com
+@frgottenone - Telegram
 
 
 <!--
